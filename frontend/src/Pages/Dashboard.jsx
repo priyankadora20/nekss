@@ -8,7 +8,7 @@ const DashboardPage = () => {
     <div>
       <h1>Dashboard</h1>
           <p>Welcome to the dashboard!</p>
-          <p>Work Your Write !</p>
+          <p>Write Work Your !</p>
           
           
           <TodoApp />
